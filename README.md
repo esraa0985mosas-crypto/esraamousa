@@ -7,11 +7,11 @@
 
 ---
 
-### 🚀 What I'm Up To
-- 🔭 **Project:** Developing **[Skill Nexus](https://github.com/esraa0985mosas-crypto/skill-nexus)** – a platform to help others find their career paths.
+### 🚀 About Me
+- 🔭 **Project:** Developing **[Skill Nexus](https://github.com/esraamousaamer-23/skill-nexus)** – A platform to help others find their technical career paths.
 - 🌱 **Learning:** Deepening my knowledge in **Python** and **Network Security**.
 - 💼 **Entrepreneurship:** Founder & Creative Director at **EM Design**.
-- 🛡️ **Tools:** Mastering **Kali Linux**, **Nmap**, and **Burp Suite**.
+- 🛠️ **Tools:** Mastering **Kali Linux**, **Nmap**, and **Burp Suite**.
 
 ### 🛠️ My Creative & Tech Toolbox
 <p align="left">
@@ -28,8 +28,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esraa0985mosas-crypto&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraa0985mosas-crypto&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esraamousaamer-23&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraamousaamer-23&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
